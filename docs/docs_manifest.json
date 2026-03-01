@@ -225,8 +225,8 @@
     "overview.md": {
       "original_url": "https://code.claude.com/docs/en/overview",
       "original_md_url": "https://code.claude.com/docs/en/overview.md",
-      "hash": "b050524226210d2e16afb28daaa981abd071826a26f7390d019cb8959d290adf",
-      "last_updated": "2026-03-01T02:28:56.696018"
+      "hash": "f12a366f9590dfe01a548130246e6468d862bf5fe14a50e8cfcf5026cea5debd",
+      "last_updated": "2026-03-01T04:55:10.718099"
     },
     "permissions.md": {
       "original_url": "https://code.claude.com/docs/en/permissions",
@@ -357,8 +357,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-03-01T02:29:08.015792",
-    "fetch_duration_seconds": 32.720286,
+    "last_fetch_completed": "2026-03-01T04:55:22.221345",
+    "fetch_duration_seconds": 33.387772,
     "total_pages_discovered": 58,
     "pages_fetched_successfully": 59,
     "pages_failed": 0,
@@ -368,7 +368,7 @@
     "total_files": 59,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-03-01T02:29:08.015815",
+  "last_updated": "2026-03-01T04:55:22.221373",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
