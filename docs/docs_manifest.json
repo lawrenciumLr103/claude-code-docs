@@ -262,8 +262,8 @@
     "commands.md": {
       "original_url": "https://code.claude.com/docs/en/commands",
       "original_md_url": "https://code.claude.com/docs/en/commands.md",
-      "hash": "9824f35f01da74572a138474c179426ba020401745d1bb4530de52e0c2bd967f",
-      "last_updated": "2026-04-18T15:38:26.906645"
+      "hash": "a303b3689de323ae1c4a6a9e3b62fe629bcce5a4cd497d6f36fe6bb7c7e65c79",
+      "last_updated": "2026-04-20T21:50:04.328014"
     },
     "common-workflows.md": {
       "original_url": "https://code.claude.com/docs/en/common-workflows",
@@ -406,8 +406,8 @@
     "interactive-mode.md": {
       "original_url": "https://code.claude.com/docs/en/interactive-mode",
       "original_md_url": "https://code.claude.com/docs/en/interactive-mode.md",
-      "hash": "fe95f0f2f26f4d07e17157e91f9655278863544a87346134f3c514de9416c684",
-      "last_updated": "2026-04-18T15:38:40.763676"
+      "hash": "25815d3fe10e34610abf148ca62b2549795f93355ac6f9ff03934f47243f4f28",
+      "last_updated": "2026-04-20T21:50:18.876725"
     },
     "jetbrains.md": {
       "original_url": "https://code.claude.com/docs/en/jetbrains",
@@ -604,8 +604,8 @@
     "terminal-config.md": {
       "original_url": "https://code.claude.com/docs/en/terminal-config",
       "original_md_url": "https://code.claude.com/docs/en/terminal-config.md",
-      "hash": "e219d77ca2a2a97e1b8b901968b22104d28442272f9214638d4776a9e318dcd3",
-      "last_updated": "2026-04-16T21:44:48.431608"
+      "hash": "ae4ff5de0d1339171e0ab7a25c0a9517115592ebce01440f543cb3c70caef080",
+      "last_updated": "2026-04-20T21:50:37.945408"
     },
     "third-party-integrations.md": {
       "original_url": "https://code.claude.com/docs/en/third-party-integrations",
@@ -687,8 +687,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-20T19:08:19.752960",
-    "fetch_duration_seconds": 64.396346,
+    "last_fetch_completed": "2026-04-20T21:50:45.542197",
+    "fetch_duration_seconds": 66.897687,
     "total_pages_discovered": 114,
     "pages_fetched_successfully": 115,
     "pages_failed": 0,
@@ -698,7 +698,7 @@
     "total_files": 114,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-20T19:08:19.752986",
+  "last_updated": "2026-04-20T21:50:45.542226",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
