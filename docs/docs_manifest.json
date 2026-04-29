@@ -225,8 +225,8 @@
     "changelog.md": {
       "original_url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "original_raw_url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "hash": "cae0daec99cf85e7d063bf574e8af646ef0f01ab886ab0972e22199a463f6596",
-      "last_updated": "2026-04-29T02:59:33.925497",
+      "hash": "cb4ce2faedefec6f1bbde0ff75bdd35d1788f24fb61d6ce262a2b70fba6f2238",
+      "last_updated": "2026-04-29T06:07:09.617051",
       "source": "claude-code-repository"
     },
     "channels.md": {
@@ -741,8 +741,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-04-29T02:59:33.925534",
-    "fetch_duration_seconds": 96.321113,
+    "last_fetch_completed": "2026-04-29T06:07:09.617094",
+    "fetch_duration_seconds": 66.635982,
     "total_pages_discovered": 123,
     "pages_fetched_successfully": 124,
     "pages_failed": 0,
@@ -752,7 +752,7 @@
     "total_files": 123,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-04-29T02:59:33.925551",
+  "last_updated": "2026-04-29T06:07:09.617114",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
