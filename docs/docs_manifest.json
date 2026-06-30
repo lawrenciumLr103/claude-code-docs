@@ -975,8 +975,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-06-30T09:39:38.430003",
-    "fetch_duration_seconds": 153.475747,
+    "last_fetch_completed": "2026-06-30T14:22:47.369626",
+    "fetch_duration_seconds": 155.850603,
     "total_pages_discovered": 162,
     "pages_fetched_successfully": 163,
     "pages_failed": 0,
@@ -986,7 +986,7 @@
     "total_files": 162,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-06-30T09:39:38.430046",
+  "last_updated": "2026-06-30T14:22:47.369655",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
