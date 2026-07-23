@@ -207,8 +207,8 @@
     "agent-view.md": {
       "original_url": "https://code.claude.com/docs/en/agent-view",
       "original_md_url": "https://code.claude.com/docs/en/agent-view.md",
-      "hash": "afb7b4a9f231dcfc9a9e09c6d4b1e807c98b757a148426f744eaa3adfd074537",
-      "last_updated": "2026-07-21T02:45:01.284805"
+      "hash": "44fca543cfb65bb020a5cafa5595a91b66e0f380c3306ca150c53b4a7bc06dfa",
+      "last_updated": "2026-07-23T14:02:04.477294"
     },
     "agents.md": {
       "original_url": "https://code.claude.com/docs/en/agents",
@@ -472,8 +472,8 @@
     "errors.md": {
       "original_url": "https://code.claude.com/docs/en/errors",
       "original_md_url": "https://code.claude.com/docs/en/errors.md",
-      "hash": "e29e21477a9e29432869212caa9e684fa2bf52074b4a32161cab6fa49283a742",
-      "last_updated": "2026-07-23T02:49:13.518276"
+      "hash": "80eace3ec6fda90bbc4b834c9dad9a56662fb906628d6d3ae656cdd909af66ee",
+      "last_updated": "2026-07-23T14:02:52.073203"
     },
     "fast-mode.md": {
       "original_url": "https://code.claude.com/docs/en/fast-mode",
@@ -1035,8 +1035,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-07-23T11:12:53.094108",
-    "fetch_duration_seconds": 163.388424,
+    "last_fetch_completed": "2026-07-23T14:04:31.793336",
+    "fetch_duration_seconds": 194.734111,
     "total_pages_discovered": 172,
     "pages_fetched_successfully": 173,
     "pages_failed": 0,
@@ -1046,7 +1046,7 @@
     "total_files": 172,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-07-23T11:12:53.094145",
+  "last_updated": "2026-07-23T14:04:31.793366",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
