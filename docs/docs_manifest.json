@@ -304,8 +304,8 @@
     "claude-apps-gateway-config.md": {
       "original_url": "https://code.claude.com/docs/en/claude-apps-gateway-config",
       "original_md_url": "https://code.claude.com/docs/en/claude-apps-gateway-config.md",
-      "hash": "fccdefd966e2e36e6a8ed1218414b8a4d9893d5333a4b0423a8cc642c26ddefd",
-      "last_updated": "2026-09-10T22:57:46.229764"
+      "hash": "3257bfe37d57f4673a2bd0a0cd20daf9780ff3a718ac81280970d97368c04245",
+      "last_updated": "2026-09-11T03:25:22.059955"
     },
     "claude-apps-gateway-deploy.md": {
       "original_url": "https://code.claude.com/docs/en/claude-apps-gateway-deploy",
@@ -1149,8 +1149,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-09-10T22:59:40.284928",
-    "fetch_duration_seconds": 164.090978,
+    "last_fetch_completed": "2026-09-11T03:26:56.307464",
+    "fetch_duration_seconds": 129.202628,
     "total_pages_discovered": 191,
     "pages_fetched_successfully": 192,
     "pages_failed": 0,
@@ -1160,7 +1160,7 @@
     "total_files": 191,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2026-09-10T22:59:40.284949",
+  "last_updated": "2026-09-11T03:26:56.307494",
   "base_url": "https://raw.githubusercontent.com/lawrenciumLr103/claude-code-docs/main/docs/",
   "github_repository": "lawrenciumLr103/claude-code-docs",
   "github_ref": "main",
