@@ -385,10 +385,10 @@ See [Use Claude Code in the cloud](/docs/en/claude-code-on-the-web) for more on 
 
 ### Continue in another surface
 
-The **Continue in** menu, accessible from the VS Code icon in the bottom right of the session toolbar, lets you move your session to another surface:
+To continue a session somewhere else, open the session menu from the caret beside the session title or from the session's row in the sidebar, then select **Open in**:
 
-* **Claude Code on the Web**: sends your local session to continue running in the cloud. Desktop pushes your branch, generates a summary of the conversation, and creates a new cloud session with the full context. You can then choose to archive the local session or keep it. This requires a clean working tree, and is not available for SSH sessions.
-* **Your IDE**: opens your project in a supported IDE at the current working directory.
+* Select **Cloud** to continue the session as a [cloud session](/docs/en/claude-code-on-the-web), with your conversation carried over as a summary. Before you confirm, the dialog states whether your files move too and whether this session is archived once the cloud one is ready. You can't move a session that runs over [SSH](#ssh-sessions) or in [WSL](/docs/en/desktop-wsl) this way.
+* Select an installed editor or your file manager to open the session's folder on disk there.
 
 ### Sessions from Dispatch
 
